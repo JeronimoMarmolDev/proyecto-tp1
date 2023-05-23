@@ -34,9 +34,9 @@ function calcularTotal()
 function borrarTotal() 
 {
     document.getElementById("totalPagar").value = "Total a pagar: $";
-    document.getElementById("nombre").value = "";
-    document.getElementById("apellido").value = "";
-    document.getElementById("correo").value = "";
-    document.getElementById("cantidad").value = "";
+    document.getElementById("nombre").value ="";
+    document.getElementById("apellido").value ="";
+    document.getElementById("correo").value ="";
+    document.getElementById("cantidad").value ="";
 }
   
